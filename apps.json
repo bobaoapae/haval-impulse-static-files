@@ -1,16 +1,16 @@
 [
   {
     "appName": "MicroG ReVanced",
-    "appVersion": "0.3.1.4.240913",
+    "appVersion": "0.3.13.2.250932",
     "appPackageName": "app.revanced.android.gms",
-    "appLink": "https://github.com/vancedapps/vanced.to/releases/download/2025-24/vanced.to_vanced_gms_microg_v0.3.1.4.240913.apk",
+    "appLink": "https://github.com/ReVanced/GmsCore/releases/download/v0.3.13.2.250932/app.revanced.android.gms-250932004-signed.apk",
     "appIcon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/app.revanced.android.gms.200.webp"
   },
   {
     "appName": "ReVanced Manager",
-    "appVersion": "3.0.4",
+    "appVersion": "3.6.25",
     "appPackageName": "com.revanced.net.revancedmanager",
-    "appLink": "https://github.com/vancedapps/vanced.to/releases/download/2025-33/vanced.to_revanced_manager_plus_v3.0.4.apk",
+    "appLink": "https://github.com/vancedto/vanced-manager-plus/releases/download/v3.6.25/vanced.to_revanced_manager_plus_v3.6.25.apk",
     "appIcon": "https://static-revanced-net.pages.dev/assets/img/apps/thumbs/com.revanced.net.revancedmanager.200.webp"
   },
   {
